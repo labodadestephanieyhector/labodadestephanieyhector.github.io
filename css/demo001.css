@@ -746,12 +746,12 @@ box-shadow: 10px 25px 25px rgba(0,0,0,0.5);
 .btnWhatsNovios{
   text-decoration:none;
   color:#fff;
-  background-color: #184547;
+  background-color: #CBB093;
   border-top: 3px solid ;
   border-bottom: 3px solid ;
   border-right: 3px solid ;
   border-left: 3px solid ;
-  border-color: #184547;
+  border-color: #CBB093;
   height: 45px;
   font-size: 15px;
   font-weight: bold;
@@ -763,13 +763,13 @@ box-shadow: 10px 25px 25px rgba(0,0,0,0.5);
 
 .btnWhatsNovios:hover{
   text-decoration:none;
-  background-color: #fff;
-  color: #184547;
+  background-color: white;
+  color: #CBB093;
   border-top: 3px solid ;
   border-bottom: 3px solid ;
   border-right: 3px solid ;
   border-left: 3px solid ;
-  border-color: #000;
+  border-color: #CBB093;
  
 }
 .btn{
