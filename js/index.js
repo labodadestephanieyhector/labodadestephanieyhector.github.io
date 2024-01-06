@@ -1,6 +1,15 @@
 window.sr = ScrollReveal();
 
-	
+	sr.reveal('.boletos', {
+		duration: 2000, //tiempo
+		//delay:1500,
+		origin: 'top', //origen
+		scale: 0.10,
+		distance: '-0' //distancia
+
+
+	}); 
+
 	sr.reveal('.nombres', {
 		duration: 2000, //tiempo
 		//delay:1500,
@@ -269,6 +278,20 @@ sr.reveal('.textoSeccion3', {
 	});
 
 		sr.reveal('.cuentaRegresiva2', {
+		duration: 2000, //tiempo
+		origin: 'bottom', //origen
+		distance: '300px' //distancia
+
+
+	}); 
+			sr.reveal('.itinerario', {
+		duration: 2000, //tiempo
+		origin: 'bottom', //origen
+		distance: '300px' //distancia
+
+
+	});
+			sr.reveal('.banco', {
 		duration: 2000, //tiempo
 		origin: 'bottom', //origen
 		distance: '300px' //distancia
